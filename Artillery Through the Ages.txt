@@ -1,4 +1,4 @@
-﻿BorkBorkGoesTheCode hereby releases all modifications made to this file into the Public Domain. You may do whatever you want with this file, as long as you don't use it to injure good people or delete it from the repository.
+﻿This work is in the public domain of the United States of America. BorkBorkGoesTheCode hereby releases all modifications made to this file into the Public Domain. You may do whatever you want with this file, as long as you don't use it to injure good people or delete it from the repository.
 
                           ARTILLERY
 
